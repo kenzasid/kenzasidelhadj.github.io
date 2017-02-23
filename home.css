@@ -1,0 +1,61 @@
+body{
+	background-color: white;
+	font-size: 60px;
+	color: black;
+	font-family:Arial
+}
+body div div div img {
+	height:50px;
+	width:50px;
+}
+#body img {
+	height:550px;
+	width:700px;
+	margin:auto;
+	display:block;
+	padding:50px;
+}
+
+body div div div a:link {
+	font-size:20px;
+	font-color:black;
+	text-decoration:none;
+	display:inline-block;
+}
+body div div div a:visited{
+	font-size:20px;
+	font-color:black;
+	text-decoration:none;
+}
+body div div div a:hover {
+	font-size:20px;
+	font-color:black;
+	text-decoration:none;
+}
+body div div div a:active {
+	font-size:20px;
+	font-color:black;
+	text-decoration:none;
+}
+h2 {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+body div p {
+	font-size:24px;
+	text-align:center;
+	padding-left:50px;
+	padding-right:50px;
+}
+h4 {
+	text-align: center;
+}
+h6 {
+	margin-top:80px;
+	margin-bottom:0px;
+}
+body div div img {
+	width:200px;
+	height:30px;
+}
